@@ -1,10 +1,10 @@
 # Ideas for new book projects
 
 - [ ] Hotubbing by tutorials
-- [x] Advanced debugging and reverse engineering
+- [ ] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [x] Beginning tree surgery
-- [x] CVS by tutorials
+- [ ] CVS by tutorials
 - [x] Fortran for fun and profit
-- [x] RxSwift by tutorials
+- [ ] RxSwift by tutorials
 - [x] Mastering git
